@@ -1,20 +1,7 @@
-![Watch Now](./img/Design.jpg)
-# One page Portfolio Website (HTML CSS Project)
-**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
+Welcome to my portfolio!
 
----
+I am excited to share with you some of my past projects and experiences that showcase my skills and abilities. In this portfolio, you will find a selection of my work in various fields such as web development, data analysis, and project management.
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+Please take a look around and feel free to reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
 
-Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
----
-
-## Other projects
-
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-  
-
-
+Thank you for visiting!
