@@ -44,6 +44,9 @@ p {
 .section-title span {
 	color: crimson;
 }
+p span {
+	color: crimson;
+}
 
 .cta {
 	display: inline-block;
